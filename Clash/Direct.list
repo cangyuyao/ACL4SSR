@@ -1,0 +1,13 @@
+# 直连
+DOMAIN-SUFFIX,novipnoad.com
+DOMAIN-KEYWORD,affinity
+DOMAIN-SUFFIX,v.cdnlz9.com
+
+# 叠纸
+DOMAIN-KEYWORD,x6oversea-client.infoldgames.com
+
+# B站
+DOMAIN-SUFFIX,live.bilibili.com
+
+# Steam
+DOMAIN-SUFFIX,fastly.steamstatic.com
